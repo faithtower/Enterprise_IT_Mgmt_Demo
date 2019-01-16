@@ -1,0 +1,38 @@
+/*Navbar*/
+#myNavbar{
+	background-color: #bcbfc3;
+}
+
+#myNavbar a.nav-link{
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 14px;
+}
+/*End of Navbar*/
+.cl1{
+	background-color: #094c68;
+}
+
+/*Display Section*/
+.highlight{
+	color: #fda221;
+}
+.highlight-btn{
+	background-color: #fda221;
+}
+.display-info{
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+}
+/*End of Display Section*/
+
+/*Content Section*/
+.icon{
+	display: flex;
+	align-items: center;
+	background-color: #bcbfc3;
+	font-size: 40px;
+	padding: 10px;
+}
+/*End of ContentSection*/
